@@ -1,4 +1,4 @@
-# Banking-Management-System
+# Banking-Management-System-with-Python-and-MySQL
 This repository is made by <b>Sajal Kapoor</b>.
 <br>
 It contains my Project on <b>Banking Management System</b> that is created using <b>Python</b>. The GUI is made using <i><b>tkinter library</b></i> of Python.
